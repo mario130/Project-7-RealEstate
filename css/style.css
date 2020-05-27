@@ -446,7 +446,7 @@ nav li.nav-item.active {
 
 .devs {
   padding: 200px 0;
-  background: url(../images/intro-2.jpg) no-repeat center center;
+  background: url(intro-2.jpg) no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
   position: relative;
